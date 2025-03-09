@@ -5,4 +5,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://forklifttt.github.io/ar/sitemap.xml
+Sitemap: https://samialhawshabi.github.io/en/sitemap.xml
